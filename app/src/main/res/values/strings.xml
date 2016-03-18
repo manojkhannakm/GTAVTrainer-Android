@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">GTA V Trainer</string>
+    <string name="maps_api_key">AIzaSyA_WTxXYzJiyc13rek955vI6BUvIfSoJFg</string>
+
+    <string name="trainer_navigation_view_main">Trainer</string>
+    <string name="help_navigation_view_main">Help</string>
+    <string name="about_navigation_view_main">About</string>
+    <string name="open_drawer_layout_main">open_drawer_layout_main</string>
+    <string name="close_drawer_layout_main">close_drawer_layout_main</string>
+
+    <string name="connection_text_view_connection">Connection</string>
+    <string name="ip_address_edit_text_connection">IP Address</string>
+    <string name="port_edit_text_connection">Port</string>
+    <string name="password_edit_text_connection">Password</string>
+    <string name="connect_button_connection">CONNECT</string>
+    <string name="ip_address_text_edit_text_connection">192.168.0.2</string>
+    <string name="port_text_edit_text_connection">10000</string>
+    <string name="connection_progress_connection">Connection</string>
+    <string name="connecting_progress_connection">Connecting...</string>
+    <string name="reconnecting_progress_connection">Reconnecting...</string>
+    <string name="connected_progress_connection">Connected!</string>
+    <string name="could_not_connect_progress_connection">Could not connect!</string>
+
+    <string name="player_view_pager_trainer">Player</string>
+    <string name="weapon_view_pager_trainer">Weapon</string>
+    <string name="vehicle_view_pager_trainer">Vehicle</string>
+    <string name="map_view_pager_trainer">Map</string>
+
+</resources>

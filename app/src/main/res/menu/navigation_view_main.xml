@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/trainer_navigation_view_main"
+            android:checked="true"
+            android:icon="@drawable/trainer_navigation_view_main"
+            android:title="@string/trainer_navigation_view_main" />
+
+        <item
+            android:id="@+id/help_navigation_view_main"
+            android:icon="@drawable/help_navigation_view_main"
+            android:title="@string/help_navigation_view_main" />
+
+        <item
+            android:id="@+id/about_navigation_view_main"
+            android:icon="@drawable/about_navigation_view_main"
+            android:title="@string/about_navigation_view_main" />
+
+    </group>
+
+</menu>
