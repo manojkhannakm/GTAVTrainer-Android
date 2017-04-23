@@ -1,4 +1,4 @@
-package com.gtavtrainer;
+package com.manojkhannakm.gtavtrainer;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

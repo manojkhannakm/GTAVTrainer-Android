@@ -1,4 +1,4 @@
-package com.gtavtrainer.net.client;
+package com.manojkhannakm.gtavtrainer.net.client;
 
 import android.util.Log;
 

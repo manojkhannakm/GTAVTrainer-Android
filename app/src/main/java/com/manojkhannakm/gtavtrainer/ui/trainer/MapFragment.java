@@ -1,4 +1,4 @@
-package com.gtavtrainer.ui.trainer;
+package com.manojkhannakm.gtavtrainer.ui.trainer;
 
 import android.os.AsyncTask;
 import android.os.Build;
@@ -20,12 +20,12 @@ import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.android.gms.maps.model.Tile;
 import com.google.android.gms.maps.model.TileOverlayOptions;
 import com.google.android.gms.maps.model.TileProvider;
-import com.gtavtrainer.R;
-import com.gtavtrainer.net.client.Client;
-import com.gtavtrainer.net.client.ClientAsyncTask;
-import com.gtavtrainer.net.data.Data;
-import com.gtavtrainer.net.data.EventData;
-import com.gtavtrainer.ui.MainActivity;
+import com.manojkhannakm.gtavtrainer.R;
+import com.manojkhannakm.gtavtrainer.net.client.Client;
+import com.manojkhannakm.gtavtrainer.net.client.ClientAsyncTask;
+import com.manojkhannakm.gtavtrainer.net.data.Data;
+import com.manojkhannakm.gtavtrainer.net.data.EventData;
+import com.manojkhannakm.gtavtrainer.ui.MainActivity;
 
 import java.io.IOException;
 import java.io.InputStream;

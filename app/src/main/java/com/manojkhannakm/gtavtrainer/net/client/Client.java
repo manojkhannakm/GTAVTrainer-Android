@@ -1,10 +1,10 @@
-package com.gtavtrainer.net.client;
+package com.manojkhannakm.gtavtrainer.net.client;
 
 import android.os.Parcel;
 import android.os.Parcelable;
 import android.util.Log;
 
-import com.gtavtrainer.net.data.EventData;
+import com.manojkhannakm.gtavtrainer.net.data.EventData;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;

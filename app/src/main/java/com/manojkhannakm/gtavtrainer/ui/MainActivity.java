@@ -1,4 +1,4 @@
-package com.gtavtrainer.ui;
+package com.manojkhannakm.gtavtrainer.ui;
 
 import android.content.res.Configuration;
 import android.os.Bundle;
@@ -15,12 +15,12 @@ import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.view.View;
 
-import com.gtavtrainer.R;
-import com.gtavtrainer.net.client.Client;
-import com.gtavtrainer.net.client.ClientAsyncTask;
-import com.gtavtrainer.ui.about.AboutFragment;
-import com.gtavtrainer.ui.help.HelpFragment;
-import com.gtavtrainer.ui.trainer.ConnectionFragment;
+import com.manojkhannakm.gtavtrainer.R;
+import com.manojkhannakm.gtavtrainer.net.client.Client;
+import com.manojkhannakm.gtavtrainer.net.client.ClientAsyncTask;
+import com.manojkhannakm.gtavtrainer.ui.about.AboutFragment;
+import com.manojkhannakm.gtavtrainer.ui.help.HelpFragment;
+import com.manojkhannakm.gtavtrainer.ui.trainer.ConnectionFragment;
 
 /**
  * @author Manoj Khanna

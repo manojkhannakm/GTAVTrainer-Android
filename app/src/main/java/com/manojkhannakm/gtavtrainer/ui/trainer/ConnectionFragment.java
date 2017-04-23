@@ -1,4 +1,4 @@
-package com.gtavtrainer.ui.trainer;
+package com.manojkhannakm.gtavtrainer.ui.trainer;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -11,10 +11,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 
-import com.gtavtrainer.R;
-import com.gtavtrainer.net.client.Client;
-import com.gtavtrainer.net.client.ClientAsyncTask;
-import com.gtavtrainer.ui.MainActivity;
+import com.manojkhannakm.gtavtrainer.R;
+import com.manojkhannakm.gtavtrainer.net.client.Client;
+import com.manojkhannakm.gtavtrainer.net.client.ClientAsyncTask;
+import com.manojkhannakm.gtavtrainer.ui.MainActivity;
 
 /**
  * @author Manoj Khanna

@@ -1,4 +1,4 @@
-package com.gtavtrainer.ui.trainer;
+package com.manojkhannakm.gtavtrainer.ui.trainer;
 
 import android.os.Bundle;
 import android.support.design.widget.TabLayout;
@@ -9,7 +9,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.gtavtrainer.R;
+import com.manojkhannakm.gtavtrainer.R;
 
 /**
  * @author Manoj Khanna

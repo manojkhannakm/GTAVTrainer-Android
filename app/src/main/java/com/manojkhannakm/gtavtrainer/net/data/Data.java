@@ -1,4 +1,4 @@
-package com.gtavtrainer.net.data;
+package com.manojkhannakm.gtavtrainer.net.data;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
